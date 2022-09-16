@@ -17,6 +17,8 @@
 
 ### 线性代数 ⬜2️⃣
 
+https://www.bilibili.com/video/BV1ib411t7YR
+
 + 向量/矩阵运算； 
 + 基，Orthonormal basis；
 + 逆矩阵，广义逆矩阵；
@@ -158,6 +160,9 @@
 + 任务
     图像分类、目标检测、图像分割、风格迁移、样本生成
 
++ 可解释性
+
+
 ### AutoML 🔳2️⃣
 
 + Autokeras
@@ -167,23 +172,30 @@
 + SQL https://www.w3school.com.cn/sql/index.asp
 + 后台 ASP.Net MVC C# / Java / php
 + 前端 HTML / CSS / JS https://www.w3school.com.cn/html/index.asp
-+ Android App
++ Android App, Android Studio
 + Wechat App
 
 ### 物联网\端智能 🔳
 
-+ 单片机系列：[Arduino、ESP32](https://www.bilibili.com/video/BV1jT411c7TE/)、各类sensor
++ 单片机系列：[Arduino、ESP32](https://www.bilibili.com/video/BV1jT411c7TE/)、各类sensor、C语言
 
 + [Raspberry Pi](https://www.bilibili.com/video/BV1XB4y1H7J5/)： Linux, Raspbian，GPIO
 
++ 轻量级模型及推理框架：mobilenet, efficientnet, tflite, tfjs等
 
 <hr/>
 
 ## 工具篇 ⬜
 
+### IDE
+
++ Jupyter Notebook
++ Visual Studio Code 或 宇宙最强 Visual Studio
+
 ### English 
 
 + 观看youtube、coursera等的英文教程，锻炼英文思维，掌握学术词汇和表达方式。
++ Spelling Checker, e.g., Grammarly
 
 ### 信息检索
 
