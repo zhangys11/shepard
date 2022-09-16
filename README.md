@@ -144,6 +144,8 @@
 
 ### 深度学习 🔳6️⃣
 
+🌞 https://www.bilibili.com/video/BV1Wv411h7kN
+
 + 梯度下降
     AdaGrad, RMSProp, Adam
 
