@@ -102,7 +102,7 @@
   
     偏差(bias)/方差(variance)；模型选择；训练集/交叉验证集/测试集；学习曲线；不均衡的数据；查准率/查全率/F1-Score；Cross Validation
 
-### 文本挖掘 🔳4️⃣
+### [文本挖掘](https://www.bilibili.com/video/BV1hK4y1f75N/) 🔳4️⃣
 
 + 特征提取：将文本转化为计算机可处理的向量形式; 单词表征：Word Embedding，TF-IDF; 文档表征：Bow(Bag of word), N-gram; 文本分类，情感分析（polarity: negative 0-1 positive）
 + 文档主题模型（Topic Model): LDA，NMF，Clustering； Word Embedding, RNN, LSTM, GRU，Attention
