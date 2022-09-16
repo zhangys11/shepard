@@ -24,6 +24,14 @@ http://zhangys.org.cn/Home/Teaching
 
 https://www.coursera.org/learn/machine-learning
 
+
+### 集成学习
+
+### 文本挖掘
+
+爬虫、知识图谱、地图可视化、情感分析
+
+
 <hr/>
 ## 工程篇
 
@@ -37,6 +45,9 @@ https://www.w3school.com.cn/python/index.asp
 
 #### Matplotlib 可视化库
 
+#### Pandas 数据操作库
+
+#### Scipy 科学计算库，主要关注Scipy.stats统计功能
 
 
 ### 深度学习
@@ -65,7 +76,17 @@ pyTorch, keras + tensorflow
 
 日常使用bing或google，以英文关键词检索。技术类StackOverflow，学术类stats.stackexchange.com等
 
+### 引文管理
+
+Zotero
+
 ### 
+
+### 中文资源
+
+全国优秀学位论文库
+
+
 
 
 
