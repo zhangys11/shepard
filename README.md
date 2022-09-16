@@ -223,8 +223,8 @@ https://www.bilibili.com/video/BV1ib411t7YR
 + 劳逸结合，找到自己的节奏。但过的【太】安逸舒适时，往往是走下坡路的信号。
 + 编程技术方面的学习，必须独自完整相应的程序。杜绝浅尝辄止，死磕细节，强化自己的执行力。
  
-<img src="deeper.jpg" />
+![](deeper.jpg)
 
 <hr/>
 
-<img src="roadmap_qr.png" />
+![](roadmap_qr.png)
