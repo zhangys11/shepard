@@ -23,6 +23,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 + 基，Orthonormal basis；
 + 逆矩阵，广义逆矩阵；
 + 协方差矩阵，SVD
++ [向量的叉积，齐次坐标和齐次变换](https://www.bilibili.com/video/BV1HD4y117JW/)🔳
 
 ### 概率论和数理统计 ⬜4️⃣
 
