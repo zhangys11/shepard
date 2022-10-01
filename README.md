@@ -85,7 +85,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 ### 机器学习 ⬜8️⃣
 
-🌞 https://www.coursera.org/learn/machine-learning 
+🌞 https://www.coursera.org/learn/machine-learning   
 
 + 回归
 
@@ -147,7 +147,8 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 ### 深度学习 🔳6️⃣
 
-🌞 https://www.bilibili.com/video/BV1Wv411h7kN
+🌞 https://www.bilibili.com/video/BV1Wv411h7kN  
+🌞 https://distill.pub/
 
 + 梯度下降
     AdaGrad, RMSProp, Adam
@@ -209,7 +210,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 ### 版本管理
 
-+ [Github](https://www.bilibili.com/video/BV1Lg41117Ay/) 
++ [Github](https://www.bilibili.com/video/BV1Lg41117Ay/), [多人协作操作说明](github_manual.pdf)
 
 ### 中文资源
 
