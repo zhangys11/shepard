@@ -201,7 +201,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 ### 信息检索
 
-+ 日常使用bing或google，以英文关键词检索。技术类StackOverflow，学术类stats.stackexchange.com等
++ 日常使用bing或google，以英文关键词检索。技术类StackOverflow，学术类quora, stats.stackexchange.com, wikipedia, 知乎等
 + 英文文献检索：Google Scholar, Elsevier ScienceDirect
 
 ### 引文管理
