@@ -191,7 +191,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 ### IDE
 
-+ Jupyter Notebook
++ Jupyter Notebook。markdown语法及[数学公式语法](latex_math_symbols.pdf)
 + Visual Studio Code 或 宇宙最强 Visual Studio
 
 ### English 
