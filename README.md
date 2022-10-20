@@ -1,4 +1,4 @@
-# 高质量人类养成手册（A roadmap to academic excellence for newbies）
+# 新手村指南（A roadmap to academic excellence for newbies）
 
 
 [Dr. Zhang](http://zhangys.org.cn) 整理，不定期更新。 
