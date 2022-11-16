@@ -172,7 +172,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 ### 全栈工程师 🔳
 
 + SQL https://www.w3school.com.cn/sql/index.asp
-+ 后台 ASP.Net MVC C# / Java / php
++ 后台 Flask Python / ASP.Net MVC C# / Java / php    
 + 前端 HTML / CSS / JS https://www.w3school.com.cn/html/index.asp
 + Android App, Android Studio
 + Wechat App
