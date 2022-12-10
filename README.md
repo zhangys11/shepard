@@ -162,7 +162,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 + 任务
     图像分类、目标检测、图像分割、风格迁移、样本生成
 
-+ 可解释性
++ [可解释性](https://www.bilibili.com/video/BV1aK411Z7Pd)
 
 
 ### AutoML 🔳2️⃣
