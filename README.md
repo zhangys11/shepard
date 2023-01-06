@@ -124,6 +124,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 + 香农信息论
 + 采样定理
++ 傅里叶变换、[Gabor Transform](https://www.bilibili.com/video/BV1fK411i7w3/)、[小波](https://www.bilibili.com/video/BV1B8411J7gW/)
 + 压缩感知
 
 <hr/>
@@ -171,9 +172,9 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 ### 全栈工程师 🔳
 
-+ SQL https://www.w3school.com.cn/sql/index.asp
++ [SQL](https://www.w3school.com.cn/sql/index.asp)
 + 后台 Flask Python / ASP.Net MVC C# / Java / php    
-+ 前端 HTML / CSS / JS https://www.w3school.com.cn/html/index.asp
++ [前端 HTML / CSS / JS](https://www.w3school.com.cn/html/index.asp)
 + Android App, Android Studio
 + Wechat App
 
