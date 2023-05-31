@@ -177,6 +177,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 + 后台 [Flask](https://www.w3cschool.cn/flask) / ASP.Net MVC / php    
 + Android App, Android Studio
 + Wechat App
++ [区块链 / Web 3.0](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 
 ### 物联网\端智能 🔳
 
@@ -185,6 +186,8 @@ https://www.bilibili.com/video/BV1ib411t7YR
 + [Raspberry Pi](https://www.bilibili.com/video/BV1XB4y1H7J5/)： Linux, Raspbian，GPIO
 
 + 轻量级模型及推理框架：mobilenet, efficientnet, tflite, tfjs等
+
++ Thingsboard / MQTT协议
 
 <hr/>
 
