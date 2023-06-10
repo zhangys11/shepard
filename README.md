@@ -189,6 +189,10 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 + Thingsboard / MQTT协议
 
+### 区块链/Web 3.0 🔳
+
++ DApp开发；以太坊 Ethereum；智能合约 solidity
+
 <hr/>
 
 ## 工具篇 ⬜
