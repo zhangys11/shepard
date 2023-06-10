@@ -37,7 +37,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 + [数理统计-抽样分布](https://www.bilibili.com/video/BV1jF411x7ym/)|[参数估计](https://www.bilibili.com/video/BV1HY411n79i/)
 
-    总体、样本、统计量、抽样分布：卡方分布、t分布、F分布； 参数估计。点估计：矩估计法、最大似然法；区间估计：单侧置信区间、双侧置信区间
+    总体、样本、统计量、抽样分布：卡方分布、t分布、F分布； 参数估计。点估计：[矩](https://www.bilibili.com/video/BV1Su4y1Z73Q)估计法、最大似然法；区间估计：单侧置信区间、双侧置信区间
 
 + [数理统计-假设检验](https://www.bilibili.com/video/BV1nS4y1g7xY/)
 
