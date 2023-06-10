@@ -177,7 +177,6 @@ https://www.bilibili.com/video/BV1ib411t7YR
 + 后台 [Flask](https://www.w3cschool.cn/flask) / ASP.Net MVC / php    
 + Android App, Android Studio
 + Wechat App
-+ [区块链 / Web 3.0](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 
 ### 物联网\端智能 🔳
 
