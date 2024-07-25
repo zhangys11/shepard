@@ -73,7 +73,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 + [神经网络系列](https://www.bilibili.com/video/BV1FL411A7gk/)
 
-    感知机、深度学习、神经网络发展史、ANN in SPSS
+    感知机、深度学习、神经网络发展史
 
 + [时间序列分析](https://www.bilibili.com/video/BV1EY4y1b7f7/)
 
@@ -99,11 +99,9 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
     神经网络：前向传播；反向传播。 决策树：Info Gain , Gini Impurity；随机森林；集成学习（bagging，boosting。贝叶斯分类器。[KNN](https://www.bilibili.com/video/BV1Zq4y177pm/)； [距离](https://www.bilibili.com/video/BV1PV41177br/)；
     
-    随机权神经网络 NNRW 🔳：ELM, RVFL
-
 + 模型选择及模型评估
   
-    偏差(bias)/方差(variance)；模型选择；训练集/交叉验证集/测试集；学习曲线；不均衡的数据；查准率/查全率/F1-Score；Cross Validation
+    偏差(bias)/方差(variance)；模型选择；遗传算法🔳；训练集/交叉验证集/测试集；学习曲线；不均衡的数据；查准率/查全率/F1-Score；Cross Validation
 
 ### [文本挖掘](https://www.bilibili.com/video/BV1hK4y1f75N/) 🔳4️⃣
 
@@ -111,7 +109,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 + 文档主题模型（Topic Model): LDA，NMF，Clustering； Word Embedding, RNN, LSTM, GRU，Attention
 + Python 爬虫
 + [关联挖掘](https://www.bilibili.com/video/BV1FK4y1j7Ph/)
-+ 本体、语义网络、知识图谱
++ 本体、语义网络、知识图谱、neo4j图数据库
 + 时空可视化
 + 情感分析
 
@@ -161,7 +159,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
     pyTorch, keras + tensorflow
 
 + 任务
-    图像分类、目标检测、图像分割、风格迁移、样本生成
+    图像分类、目标检测、图像分割、风格迁移、样本生成、text2img (stable diffusion)、LLM
 
 + [可解释性](https://www.bilibili.com/video/BV1aK411Z7Pd)
 
@@ -173,7 +171,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 ### 全栈工程师 🔳
 
 + [SQL](https://www.w3school.com.cn/sql/index.asp)
-+ [前端 HTML / CSS / JS](https://www.w3school.com.cn/html/index.asp)
++ [前端 HTML / CSS / JS](https://www.w3school.com.cn/html/index.asp) / Vue / React
 + 后台 [Flask](https://www.w3cschool.cn/flask) / ASP.Net MVC / php    
 + Android App, Android Studio
 + Wechat App
@@ -199,12 +197,12 @@ https://www.bilibili.com/video/BV1ib411t7YR
 ### IDE
 
 + Jupyter Notebook。markdown语法及[数学公式语法](latex_math_symbols.pdf)
-+ Visual Studio Code (推荐插件：pylint, copilot) 或 宇宙最强 Visual Studio
++ Visual Studio Code (推荐插件：pylint, copilot) 或 最强 Visual Studio
 
 ### English 
 
 + 观看youtube、coursera等的英文教程，锻炼英文思维，掌握学术词汇和表达方式。
-+ Spelling Checker, e.g., Grammarly
++ Spelling Checker, e.g., Grammarly  
 
 ### 信息检索
 
@@ -229,7 +227,8 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 + 做”一个脱离了低级趣味的人”，不要【长时间】沉溺于低层次快乐中。
 + 实践和参与。杜绝无所事事、没有深入参与感的精神内耗。
-+ 劳逸结合，找到自己的节奏。但过的【太】安逸舒适时，往往是走下坡路的信号。
++ 劳逸结合，找到自己的节奏。但过的【太】安逸舒适时，往往是走下坡路的信号。  
++ 多成事，事事有积淀。  
 + 编程技术方面的学习，必须独自完成相应的程序。杜绝浅尝辄止，死磕细节，强化自己的执行力。
 + 当某个技术问题调研一天以上还无法解决时，及时联系导师处理，避免影响学习和研究进度。
  
