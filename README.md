@@ -146,6 +146,7 @@ https://www.bilibili.com/video/BV1ib411t7YR
 
 ### 深度学习 🔳6️⃣
 
+🌞 https://github.com/zhangys11/pytorch  
 🌞 https://www.bilibili.com/video/BV1Wv411h7kN  
 🌞 https://distill.pub/
 
